@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ibedeijo.github.io/NpU/sitemap_index.txt
+Sitemap: https://ibedeijo.github.io/but/sitemap_index.txt
+Sitemap: https://ibedeijo.github.io/bvG/sitemap_index.txt
+Sitemap: https://ibedeijo.github.io/xsa/sitemap_index.txt
